@@ -1,4 +1,4 @@
-# Northflank Template: Strapi v4 with Postgres and S3 
+# Northflank Template - Strapi v4 with Postgres and S3 
 
 Fork this repository to create your Strapi v4 deployment. Configuration data will be stored in a PostgreSQL database and media uploads will use your own Amazon S3 bucket. Follow our guide to deploy on Northflank.
 
